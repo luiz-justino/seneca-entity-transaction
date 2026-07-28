@@ -24,28 +24,6 @@ require('seneca')()
 
 ## More Examples
 
-See [test/](test/) for more usage examples.
-
-## Motivation
-
-A [Seneca.js](http://senecajs.org) plugin providing entity transaction support.
-
-## Support
-
-If you're using this module and need help, you can:
-
-- Post a [github issue](https://github.com/senecajs/seneca-entity-transaction/issues)
-- Tweet to [@senecajs](http://twitter.com/senecajs)
-- Ask on the [Gitter](https://gitter.im/senecajs/seneca)
-
-## API
-
-See [source](https://github.com/senecajs/seneca-entity-transaction) for API details.
-
-## Contributing
-
-The [Senecajs org](https://github.com/senecajs/) encourages open participation. If you feel you can help in any way, be it with documentation, examples, extra testing, or new features please get in touch.
-
 To run the tests:
 ```
 # Build the services required by the automated tests.
@@ -86,6 +64,26 @@ docker-compose -f docker-compose.test.yaml down
 ```
 
 
+
+## Motivation
+
+A [Seneca.js](http://senecajs.org) plugin providing entity transaction support.
+
+## Support
+
+If you're using this module and need help, you can:
+
+- Post a [github issue](https://github.com/senecajs/seneca-entity-transaction/issues)
+- Tweet to [@senecajs](http://twitter.com/senecajs)
+- Ask on the [Gitter](https://gitter.im/senecajs/seneca)
+
+## API
+
+See [source](https://github.com/senecajs/seneca-entity-transaction) for API details.
+
+## Contributing
+
+The [Senecajs org](https://github.com/senecajs/) encourages open participation. If you feel you can help in any way, be it with documentation, examples, extra testing, or new features please get in touch.
 
 ## Background
 
